@@ -11,5 +11,5 @@ IMFF_NET_Unlearnable.py以及IMFF_Net_learnable.py保存了模型的全部代码
 7.IMFF-NET（对应代码中的OmegaVisionNet）
 8.DIM(对应代码中的DDP)
 # 模型总框架
-![微信图片_20250607133015](https://github.com/user-attachments/assets/f0ef660b-c8b8-4fad-82ee-cb4632d73b52)
+![b6c472d5-b302-4679-a8d1-d23da8882843](https://github.com/user-attachments/assets/0a5ad0b0-5048-44da-a69b-b5f8ca5c028b)
 
