@@ -3,8 +3,8 @@ Using DenseNet121 as the backbone, the model is optimized to achieve high classi
 
 # Description
 IMFF_NET_Unlearnable.py and IMFF_Net_learnable.py contain all model code (including various modules).  
-IMFF_NET_Unlearnable.py: Model with ​​fixed-ratio​​, ​​non-trainable​​ output fusion layer.  
-IMFF_Net_learnable.py: Model with ​​trainable weights​​ added to the output fusion layer.  
+IMFF_NET_Unlearnable.py: Model with ​​fixed-ratio​​.  
+IMFF_Net_learnable.py: Model with ​​trainable weights​​.  
 data.py: Download links for datasets used.  
 model_pretrained.py: Pre-trained model weights.  
 ​​1.LOGM Module​​ (coded as LogLayer).  
